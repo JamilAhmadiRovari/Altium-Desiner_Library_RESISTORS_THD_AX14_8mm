@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=RESISTORS_THD_AX14_8mm_S.SchLib
+DocumentPath=10 RESISTORS_THD_AX14_8mm_S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JHFRCIIS
 
 [Document2]
-DocumentPath=RESISTORS_THD_AX14_8mm_P.PcbLib
+DocumentPath=10 RESISTORS_THD_AX14_8mm_P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
